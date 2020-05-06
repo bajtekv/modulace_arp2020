@@ -1,0 +1,11 @@
+C:\Users\win10\source\repos\modulace\modulace\bin\Debug\netcoreapp3.1\modulace.exe
+C:\Users\win10\source\repos\modulace\modulace\bin\Debug\netcoreapp3.1\modulace.deps.json
+C:\Users\win10\source\repos\modulace\modulace\bin\Debug\netcoreapp3.1\modulace.runtimeconfig.json
+C:\Users\win10\source\repos\modulace\modulace\bin\Debug\netcoreapp3.1\modulace.runtimeconfig.dev.json
+C:\Users\win10\source\repos\modulace\modulace\bin\Debug\netcoreapp3.1\modulace.dll
+C:\Users\win10\source\repos\modulace\modulace\bin\Debug\netcoreapp3.1\modulace.pdb
+C:\Users\win10\source\repos\modulace\modulace\obj\Debug\netcoreapp3.1\modulace.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\modulace\modulace\obj\Debug\netcoreapp3.1\modulace.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\modulace\modulace\obj\Debug\netcoreapp3.1\modulace.AssemblyInfo.cs
+C:\Users\win10\source\repos\modulace\modulace\obj\Debug\netcoreapp3.1\modulace.dll
+C:\Users\win10\source\repos\modulace\modulace\obj\Debug\netcoreapp3.1\modulace.pdb
